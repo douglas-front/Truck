@@ -46,6 +46,7 @@
     nav ul{
         display: flex;
         gap: 3vw;
+        list-style: none;
     }
     ul li a{
         position: relative;

@@ -29,15 +29,13 @@ export default{
     section{
         position: relative;
         width: 100vw;
-        height: 100vh;
-        
     }
     .bg{
         width: 100%;
-        height: 90vh;
+        height: 95vh;
 
         position: absolute;
-        top: 0;
+        top: -10vw;
 
         background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('@/assets/img/truck_hero.jpg') no-repeat center/cover;
 

@@ -7,17 +7,17 @@ export default {
       imgs: [
       {
         n: '01',
-        img: '../../../src/assets/img/truck_hover1.jpg',
+        img: '/src/assets/img/truck_hover1.jpg',
         text: "Truck Hability Insurance"
       },
       {
         n: '02',
-        img: '../../../src/assets/img/truck_hover2.jpg',
+        img: '/src/assets/img/truck_hover2.jpg',
         text: "Truck Hability Insurance"
       },
       {
         n: '03',
-        img: '../../../src/assets/img/truck_hover3.jpg',
+        img: '/src/assets/img/truck_hover3.jpg',
         text: "Truck Hability Insurance"
       }
     ]

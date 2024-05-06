@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-  <section data-scroll-section>
+  <section >
 
     <Section />
   </section>

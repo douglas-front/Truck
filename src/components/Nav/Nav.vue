@@ -29,7 +29,7 @@
         overflow: hidden;
         position: fixed;
         width: 95vw;
-        top: 2vw;
+        top:2vw;
         left: 50%;
         transform: translate(-50%,-0%);
 
